@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: marketprism
+    buildCommand: npm install
+    startCommand: npm start
